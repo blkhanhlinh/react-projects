@@ -11,6 +11,7 @@ const Tours = ({ tours, removeTour }) => {
             <div>
                 {tours.map((tour) => {
                     return <Tour key ={tour.id} {...tour} removeTour={removeTour}></Tour>
+                    // {...tour} access to all properties in tour component that are in the object
                 })}
             </div>
         </section>
