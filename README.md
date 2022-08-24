@@ -1,24 +1,24 @@
 # 15 small React projects
 I practice ReactJS by coding projects from https://react-projects.netlify.app/
 ### useState
-* Birthday Reminder
+1. Birthday Reminder
 ### useEffect and Conditional Rendering
-* Tours
-* Reviews
-* Questions
-* Menu
-* Tabs
-* Stripe Menu
-* Slider
-* Forms
-* Lorem Ipsum Generator
-* Color Shades Generator
-* Grocery Bud
+2. Tours
+3. Reviews
+4. Questions
+5. Menu
+6. Tabs
+7. Stripe Menu
+8. Slider
+### Forms
+9. Lorem Ipsum Generator
+10. Color Shades Generator
+11. Grocery Bud
 ### useRef
-* Navbar
+12. Navbar
 ### useContext
-* Modal and Sidebar
+13. Modal and Sidebar
 ### useReducer and useContext
-* Cart
+14. Cart
 ### React Router and useCallback
-* Cocktails
+15. Cocktails
